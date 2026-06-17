@@ -1,0 +1,28 @@
+# Ignore node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Env files
+.env
+
+# VSCode
+.vscode/
+
+# Build
+dist/
+build/
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# Python cache
+__pycache__/
